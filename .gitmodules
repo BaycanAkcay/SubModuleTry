@@ -1,0 +1,3 @@
+[submodule "SubModuleToBeAdded"]
+	path = SubModuleToBeAdded
+	url = https://github.com/BaycanAkcay/SubModuleToBeAdded.git
